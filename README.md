@@ -10,6 +10,10 @@ My functional requirement will include:
 -The ability to sign/log into your account
 -The ability to go to different subpages focused on a specific programming language.
 -The ability to message and ask for help on programming
+My non-functional requirements will include:
+-Clear labels on subpages
+-Good positioning for text
+-Good asthetics
 
 -   Please consider the scope of the project and what is able to be offered within the  timeframe - Mr Clark will talk you through this aspect of the project.
 This may be too complicated (especially the messaging), but I will attempt to make this work. If I don't have enough time, then I'll change the requirements to focus on pre-built tutorials rather than messaging.
