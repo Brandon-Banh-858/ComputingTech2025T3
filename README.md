@@ -14,6 +14,7 @@ My non-functional requirements will include:
 -Clear labels on subpages
 -Good positioning for text
 -Good asthetics
+-Minimal loading time
 
 -   Please consider the scope of the project and what is able to be offered within the  timeframe - Mr Clark will talk you through this aspect of the project.
 This may be too complicated (especially the messaging), but I will attempt to make this work. If I don't have enough time, then I'll change the requirements to focus on pre-built tutorials rather than messaging.
