@@ -19,6 +19,3 @@ My non-functional requirements will include:
 -   Please consider the scope of the project and what is able to be offered within the  timeframe - Mr Clark will talk you through this aspect of the project.
 This may be too complicated (especially the messaging), but I will attempt to make this work. If I don't have enough time, then I'll change the requirements to focus on pre-built tutorials rather than messaging.
 
-
-Client: developer presents their understanding of the project and talks through whether the project is achievable and issues with the scope.
-
