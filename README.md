@@ -24,6 +24,6 @@ This may be too complicated (especially the messaging), but I will attempt to ma
 
 | Choices | Description |
 | ----------- | ----------- |
-| Colour Palette | White, black and green. White as the main background colour, black the text and green for asthetics. |
+| Colour Palette | White, black and green. Black as the main background colour, green for the text and white for asthetics. |
 | Typography | Clear fonts such as Arial. |
 | Image | Text |
