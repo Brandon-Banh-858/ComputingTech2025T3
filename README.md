@@ -20,3 +20,10 @@ My non-functional requirements will include:
 ### Please consider the scope of the project and what is able to be offered within the  timeframe - Mr Clark will talk you through this aspect of the project.
 This may be too complicated (especially the messaging), but I will attempt to make this work. If I don't have enough time, then I'll change the requirements to focus on pre-built tutorials rather than messaging.
 
+## Week 2
+
+| Choices | Description |
+| ----------- | ----------- |
+| Colour Palette | White, black and green. White as the main background colour, black the text and green for asthetics. |
+| Typography | Clear fonts such as Arial. |
+| Image | Text |
