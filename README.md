@@ -27,3 +27,5 @@ This may be too complicated (especially the messaging), but I will attempt to ma
 | Colour Palette | White, black and green. Black as the main background colour, green for the text and white for asthetics. |
 | Typography | Clear fonts such as Arial. |
 | Image | Text |
+
+![Figma Webpages](Webpage2025.jpg)
