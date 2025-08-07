@@ -24,8 +24,26 @@ This may be too complicated (especially the messaging), but I will attempt to ma
 
 | Choices | Description |
 | ----------- | ----------- |
-| Colour Palette | White, black and green. Black as the main background colour, green for the text and white for asthetics. |
-| Typography | Clear fonts such as Arial. |
-| Image | Text |
+| Colour Palette | White, black and green. Black as the main background colour, green for the text and white for asthetics. They constrast and therefore will stick out more. |
+| Typography | Clear fonts such as Arial. This allows users to read through the text easier and match the minimalist design of the UI elements. |
+| Image | Few images as to remove difficulty of matching the images with the asthetics of the UI elements |
 
-![Figma Webpages](Webpage2025.jpg)
+![Figma Webpages](FigmaWebpage1.jpg)
+
+No changes necessary.
+
+## Week 3
+
+| Choices | Description |
+| ----------- | ----------- |
+| Colour Palette | Black and green (Simular as original design). Light green as the main background colour, black for the text and UI elements. They constrast and therefore will stick out more. The lighter colours of the background will allow it to be within the user's focus more. |
+| Typography | Clear fonts such as Arial. This allows users to read through the text easier and match the minimalist design of the UI elements. |
+| Image | Still a few image, but a few more to fill in some of the white space. |
+
+![Figma Webpages](FigmaWebpage2.jpg)
+
+Changes needed:
+- Edit fonts to make homepage look more interesting
+- Experiment with white space
+
+Alternative design is more liked than original design.
