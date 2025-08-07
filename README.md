@@ -38,7 +38,7 @@ No changes necessary.
 | ----------- | ----------- |
 | Colour Palette | Black and green (Simular as original design). Light green as the main background colour, black for the text and UI elements. They constrast and therefore will stick out more. The lighter colours of the background will allow it to be within the user's focus more. |
 | Typography | Clear fonts such as Arial. This allows users to read through the text easier and match the minimalist design of the UI elements. |
-| Image | Still a few image, but a few more to fill in some of the white space. |
+| Image | Still a few image, but a few more to fill in some of the white space. The images are light with curved corners, to contrast the darker menu screens. |
 
 ![Figma Webpages](FigmaWebpage2.jpg)
 
