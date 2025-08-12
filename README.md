@@ -51,6 +51,7 @@ Alternative design is more liked than original design.
 ## Week 4
 
 ![Lucidchart Algorithms](FlowchartAlgorithm.jpg)
+[Lucidchart Algorithms](https://lucid.app/lucidchart/442a199c-afc6-4a7c-9667-eb764b94127b/edit?invitationId=inv_4c1159e6-b4fb-4316-ae34-f7f1368fcc92)
 
 | Test Case ID | Test Case Name | Preconditions | Test Steps | Expected Result | Actual Result | Pass/Fail | Priority |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
