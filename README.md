@@ -49,6 +49,9 @@ Changes needed:
 Alternative design is more liked than original design.
 
 ## Week 4
+
+![Lucidchart Algorithms](FlowchartAlgorithm.jpg)
+
 | Test Case ID | Test Case Name | Preconditions | Test Steps | Expected Result | Actual Result | Pass/Fail | Priority |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | TCM001 | Check user message | User must have a registered account. | 1. User enters 'Questions' page, 2. User types a message, 3. User submits message | Message is inputted into Questions database. | N/A | N/A | High |
