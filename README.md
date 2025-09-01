@@ -59,10 +59,12 @@ Alternative design is more liked than original design.
 | TCM002 | Visualise user message | User must have a registered account. | 1. User enters 'Questions' page, 2. User types a message, 3. User submits message, 4. Message is submitted into Questions database | Message is visualised on user's screen | N/A | N/A | High |
 
 ## Week 5
-
+Notes:
+I set up the python environment, following a document and making sure that the SQL database was up and functional. I also managed to input some data into the 3 tables created.
 
 ## Week 6
-
+Notes:
+Began setting up the website and attempted (but failed) to link the SQL database to it.
 
 ## Week 7
 
